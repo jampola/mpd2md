@@ -1,0 +1,9 @@
+Title: MPD2MD
+Status: hidden
+
+Any songs pulled from MPD will be appended to the bottom of this file. This md file is formatted for Pelican, feel free to change it to work with your Static CMS or otherwise.
+
+Feel free to have a gander at the source [here](https://github.com/jampola/mpd2md)
+
+    2017-01-02 Some Awesome Artist - Equally Awesome Song
+    2017-01-30 Summer Cats - Christopher Wren
